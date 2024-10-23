@@ -1,0 +1,9 @@
+,Previous qualification (grade),Mother's qualification,Father's qualification,Admission grade,Age at enrollment,Curricular units 1st sem (grade),Curricular units 1st sem (without evaluations),Curricular units 2nd sem (grade),Unemployment rate,Inflation rate,GDP
+count,4424.0,4424.0,4424.0,4424.0,4424.0,4424.0,4424.0,4424.0,4424.0,4424.0,4424.0
+mean,132.61,19.56,22.28,126.98,23.27,10.64,0.14,10.23,11.57,1.23,0.0
+std,13.19,15.6,15.34,14.48,7.59,4.84,0.69,5.21,2.66,1.38,2.27
+min,95.0,1.0,1.0,95.0,17.0,0.0,0.0,0.0,7.6,-0.8,-4.06
+25%,125.0,2.0,3.0,117.9,19.0,11.0,0.0,10.75,9.4,0.3,-1.7
+50%,133.1,19.0,19.0,126.1,20.0,12.29,0.0,12.2,11.1,1.4,0.32
+75%,140.0,37.0,37.0,134.8,25.0,13.4,0.0,13.33,13.9,2.6,1.79
+max,190.0,44.0,44.0,190.0,70.0,18.88,12.0,18.57,16.2,3.7,3.51
